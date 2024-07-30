@@ -20,3 +20,19 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+venv/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Other common files to ignore
+*.log
+.DS_Store
