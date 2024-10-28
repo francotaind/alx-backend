@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""pagination using indexes"""
+
 
 def index_range(page: int, page_size: int) -> tuple:
     """
