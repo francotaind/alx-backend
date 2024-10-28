@@ -1,2 +1,0 @@
-# alx-backend
-Backend protocols
