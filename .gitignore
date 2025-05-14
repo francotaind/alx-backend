@@ -36,3 +36,10 @@ __pycache__/
 # Other common files to ignore
 *.log
 .DS_Store
+
+# Ignore all files associated with  the virtual environment
+
+
+
+
+
